@@ -8,5 +8,5 @@
    >> * ゼミ論のお題を変えたので0スタート【動画ファイル共有】→【機材管理システム構築】（2019/11/18）
    
  >【成果報告】
-  >> * 2019/11/18 https://docs.google.com/presentation/d/1IEv9esrZzojNQBrNbcIyaxE3yxBE_x60vZsmD_t0WzQ/edit?usp=sharing
+  >> * 2019/11/18　ゼミ論中間発表 https://docs.google.com/presentation/d/1IEv9esrZzojNQBrNbcIyaxE3yxBE_x60vZsmD_t0WzQ/edit?usp=sharing
 
