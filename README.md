@@ -73,4 +73,6 @@ https://docs.google.com/spreadsheets/d/1oIGxTNZhAGQQ5NXQ4Bj2eG1CtMt5jgIeOwaIMZGX
 ### Acknowledgements
 本研究を進めるにあたり青山学院大学地球社会共生学部 教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
+© Furuhashi Laboratory/ShogoHirasawa, CC BY 4.0
+
 
