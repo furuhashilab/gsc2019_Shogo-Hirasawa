@@ -22,8 +22,11 @@
 ### Methods
 システムを構築するにあたり、Googleスプレッドシート（以下SS)とGoogleフォーム（以下フォーム）を使った。
 Googleフォームで貸し出しと返却の際に利用者に情報を入力してもらう。その入力した情報をSS上で管理する。管理している情報をSSでガントチャート方式で表示し、誰が何をいつまで借りるのかということを表示する。フォームは貸出用と返却用で同じ内容の質問項目となっている。
-フォームURL 貸出用 https://docs.google.com/forms/d/10FrDeVom4cKn0-u4i6e6D7KPWpC3kBC1WaCNNg8rJNg/edit?usp=sharing
-          返却用 https://docs.google.com/forms/d/19mYLTsYTVuYX5tLZCmOI7NW2bECPoIDNXMZWVcPd_UY/edit?usp=sharing
+
+フォームURL
+貸出用 https://docs.google.com/forms/d/10FrDeVom4cKn0-u4i6e6D7KPWpC3kBC1WaCNNg8rJNg/edit?usp=sharing
+返却用 https://docs.google.com/forms/d/19mYLTsYTVuYX5tLZCmOI7NW2bECPoIDNXMZWVcPd_UY/edit?usp=sharing
+
 質問内容は氏名・学籍番号・借りるor返すものとなっている。そこからSSにデータを自動送信させる。そのデータを別シートである、ガントチャートに反映させる。ガントチャートはSSのアドオン(Projectsheet Planning)を使用した。
 
 借りる際に学生自身責任感を持ってもらうためのルール作りも行った。
