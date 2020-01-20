@@ -29,6 +29,10 @@ Googleフォームで貸し出しと返却の際に利用者に情報を入力�
 
 返却用 https://docs.google.com/forms/d/19mYLTsYTVuYX5tLZCmOI7NW2bECPoIDNXMZWVcPd_UY/edit?usp=sharing
 
+SS URL
+
+https://docs.google.com/spreadsheets/d/1pjSrewQ_qEN0kXIX49cuhOH5Fpomqlr7x1uaaxXssbE/edit?usp=sharing
+
 質問内容は氏名・学籍番号・借りるor返すものとなっている。そこからSSにデータを自動送信させる。そのデータを別シートである、ガントチャートに反映させる。ガントチャートはSSのアドオン(Projectsheet Planning)を使用した。
 
 借りる際に学生自身責任感を持ってもらうためのルール作りも行った。
@@ -62,6 +66,7 @@ iPad、MacBook内に入っているデータや設定は使う度に初期化し
 故意でなくても、故障する場合は考えられる。また、機材の寿命で故障することもある。そういったときに、誰が修理をして資金はどこから降りるのかを明確にする必要があると感じた。
 
 ### Reference
+https://docs.google.com/spreadsheets/d/1oIGxTNZhAGQQ5NXQ4Bj2eG1CtMt5jgIeOwaIMZGXgvc/edit#gid=0
 
 ### Acknowledgements
 本研究を進めるにあたり青山学院大学地球社会共生学部 教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
